@@ -1,0 +1,4 @@
+cvzone==1.6.1
+mediapipe==0.10.21
+opencv-python==4.7.0.68
+pyvirtualcam==0.12.1
